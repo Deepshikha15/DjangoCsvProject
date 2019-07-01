@@ -1,9 +1,9 @@
 # DjangoCsvProject
-To search 
+To search :
   /csv_app/searchposts/
   
-To List
+To List :
   /csv_app/IndexListing/
   
-To Upload Csv File
+To Upload Csv File :
   /csv_app/
