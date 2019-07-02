@@ -43,7 +43,7 @@ def IndexListing(request):
 
 
 
-@permission_required('admin can log entry')
+#@permission_required('admin can log entry')
 def csv_upload(request):
     template ="csv_upload.html"
     prompt={
