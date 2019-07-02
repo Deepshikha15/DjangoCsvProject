@@ -13,7 +13,7 @@ class CaseInsensitiveQuerySet(QuerySet):
 # custom manager that overrides the initial query set
 class BrandManager(Manager):
   def get_query_set(self):
-#     return CaseInsensitiveQuerySet(self.model)
+      return CaseInsensitiveQuerySet(self.model)
 
 # and the model itself
 
