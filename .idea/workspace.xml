@@ -11,22 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#84#93#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Procfile">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/products.csv">
           <provider selected="true" editor-type-id="LargeFileEditor" />
         </entry>
@@ -40,11 +24,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+            <state relative-caret-position="75">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/filters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#275#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/options.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -82,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/widgets.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2265">
-              <caret line="164" column="60" selection-start-line="164" selection-start-column="60" selection-end-line="164" selection-end-column="60" />
+            <state relative-caret-position="259">
+              <caret line="149" column="50" lean-forward="true" selection-start-line="149" selection-start-column="50" selection-end-line="149" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -137,6 +143,8 @@
         <option value="$PROJECT_DIR$/App/urls.py" />
         <option value="$PROJECT_DIR$/csv_app/urls.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
+        <option value="$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/__init__.py" />
+        <option value="$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/widgets.py" />
       </list>
     </option>
   </component>
@@ -289,12 +297,12 @@
       <updated>1561910470076</updated>
       <workItem from="1561910484314" duration="24276000" />
       <workItem from="1562092221223" duration="204000" />
-      <workItem from="1562094575775" duration="475000" />
+      <workItem from="1562094575775" duration="805000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24955000" />
+    <option name="totallyTimeSpent" value="25285000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -307,9 +315,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="107" y="63" width="1333" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25716498" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25716498" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -323,7 +330,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5003873" side_tool="true" weight="0.32885906" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4996127" visible="true" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4996127" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -452,13 +459,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/widgets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2265">
-          <caret line="164" column="60" selection-start-line="164" selection-start-column="60" selection-end-line="164" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/csv_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -485,8 +485,33 @@
     </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="75">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#275#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/options.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/App/lib/python3.7/site-packages/django/contrib/admin/widgets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="149" column="50" lean-forward="true" selection-start-line="149" selection-start-column="50" selection-end-line="149" selection-end-column="50" />
         </state>
       </provider>
     </entry>
