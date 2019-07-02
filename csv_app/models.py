@@ -3,9 +3,6 @@ from django.db.models import Manager
 from django.db.models.query import QuerySet
 
 
-
-
-
 class CaseInsensitiveQuerySet(QuerySet):
   def _filter_or_exclude(self, mapper, *args, **kwargs):
   # 'name' is a field in your Model whose lookups you want case-insensitive by default
