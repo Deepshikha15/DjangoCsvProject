@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccc90482-2c75-40fb-87ca-2e6fe9bc5e73" name="Default Changelist" comment="" />
+    <list default="true" id="ccc90482-2c75-40fb-87ca-2e6fe9bc5e73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -42,6 +44,15 @@
               <folding>
                 <element signature="e#304#313#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="75" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -83,11 +94,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -137,6 +143,7 @@
         <option value="$PROJECT_DIR$/csv_app/models.py" />
         <option value="$PROJECT_DIR$/csv_app/views.py" />
         <option value="$PROJECT_DIR$/App/settings.py" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
       </list>
     </option>
   </component>
@@ -241,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561910470076</updated>
-      <workItem from="1561910484314" duration="14989000" />
+      <workItem from="1561910484314" duration="15518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14989000" />
+    <option name="totallyTimeSpent" value="15518000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,6 +378,13 @@
           <folding>
             <element signature="e#304#313#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="75" lean-forward="true" selection-start-line="2" selection-end-line="3" selection-end-column="75" />
         </state>
       </provider>
     </entry>
