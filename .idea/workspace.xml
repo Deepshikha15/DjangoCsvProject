@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccc90482-2c75-40fb-87ca-2e6fe9bc5e73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/App/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/csv_app/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="ccc90482-2c75-40fb-87ca-2e6fe9bc5e73" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -246,12 +241,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561910470076</updated>
-      <workItem from="1561910484314" duration="14718000" />
+      <workItem from="1561910484314" duration="14989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14718000" />
+    <option name="totallyTimeSpent" value="14989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -264,7 +259,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="75" width="1333" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24941905" />
