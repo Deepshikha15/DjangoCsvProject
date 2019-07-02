@@ -5,6 +5,6 @@ from django.conf.urls import include,url
 from csv_app.views import csv_upload
 
 urlpatterns = [
-    url(r'/', include('csv_app.urls')),
+    url(r'csv_app/', include('csv_app.urls')),
     url(r'^admin/', include(admin.site.urls)),
 ]
