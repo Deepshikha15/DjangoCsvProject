@@ -16,7 +16,7 @@ def searchposts(request):
         submitbutton= request.GET.get('submit')
 
         if query is not None:
-            lookups= Q(name__icontains=query) | Q(description__icontains=query)
+            lookups= Q(name__icontains=query) | Q(description__icontains=query) | Q(status__icontains=query)
 
             results= Product.objects.filter(lookups).distinct()
 
