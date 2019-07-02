@@ -84,8 +84,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/csv_app/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#30#62#0" expanded="true" />
               </folding>
@@ -239,12 +239,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561910470076</updated>
-      <workItem from="1561910484314" duration="21958000" />
+      <workItem from="1561910484314" duration="22875000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21958000" />
+    <option name="totallyTimeSpent" value="22875000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,6 +257,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="75" width="1333" height="837" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24941905" />
@@ -426,8 +427,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/csv_app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           <folding>
             <element signature="e#30#62#0" expanded="true" />
           </folding>
