@@ -7,11 +7,13 @@
         </div>
     {% endfor %}
 {% else %}
-{{ order }}
+
 <form method="post" enctype="multipart/form-data">
     {% csrf_token %}
     <label>Upload a file</label>
     <input type="file" name="file">
-    <button type="submit">Submit</button>
+    <button type="submit">Submit</button><br>
+    <a href="{% url 'searchposts' %}">Search Page</a><br>
+    <a href="{% url 'IndexListing' %}">List Products</a>
 </form>
 {% endif %}
